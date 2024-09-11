@@ -25,15 +25,15 @@
    inkscape:pagecheckerboard="0"
    inkscape:document-units="mm"
    showgrid="false"
-   inkscape:zoom="4.469997"
-   inkscape:cx="822.26006"
-   inkscape:cy="305.92862"
+   inkscape:zoom="1.1174993"
+   inkscape:cx="363.75863"
+   inkscape:cy="382.55059"
    inkscape:window-width="1920"
    inkscape:window-height="1022"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="1"
-   inkscape:current-layer="layer1" />
+   inkscape:current-layer="Layer_x0020_1" />
  <defs
    id="defs52">
   <font
@@ -391,9 +391,9 @@
    id="CorelCorpID_0Corel-Layer" />
   <polygon
    class="fil0"
-   points="980,17410 980,879 25715,879 25715,17410 "
+   points="980,879 25715,879 25715,17410 980,17410 "
    id="polygon55"
-   transform="translate(2687.7282,2778.4387)" />
+   transform="translate(2687.7282)" />
   <g
    id="g59">
    <polygon
