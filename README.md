@@ -22,6 +22,9 @@ A collection of styles that can be used to create attractive [EEZ Studio](https:
 18. The black white shapes
 19. [The retrotype](https://github.com/eez-open/studio-dashboard-styles/tree/main/19)
 20. [The nature retrotype](https://github.com/eez-open/studio-dashboard-styles/tree/main/20)
+21. [The wooden retrotype](https://github.com/eez-open/studio-dashboard-styles/tree/main/21)
+22. [The ice age](https://github.com/eez-open/studio-dashboard-styles/tree/main/22)
+23. [Futura]
 
 ![preview](docs/images/thumbnails.jpg)
 
