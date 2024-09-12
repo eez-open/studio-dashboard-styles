@@ -14,5 +14,15 @@ A collection of styles that can be used to create attractive [EEZ Studio](https:
 10. Digital green
 11. Digital blue
 12. [The purple machine](https://github.com/eez-open/studio-dashboard-styles/tree/main/12)
+13. [The call of the nature](https://github.com/eez-open/studio-dashboard-styles/tree/main/13)
+14. [The call of the desert](https://github.com/eez-open/studio-dashboard-styles/tree/main/14)
+15. [The call of the deep sea](https://github.com/eez-open/studio-dashboard-styles/tree/main/15)
+16. [Blue harmony](https://github.com/eez-open/studio-dashboard-styles/tree/main/16)
+17. The red blue shapes
+18. The black white shapes
+19. [The retrotype](https://github.com/eez-open/studio-dashboard-styles/tree/main/19)
+20. [The nature retrotype](https://github.com/eez-open/studio-dashboard-styles/tree/main/20)
 
 ![preview](docs/images/thumbnails.jpg)
+
+High resolution [previews](https://github.com/eez-open/studio-dashboard-styles/tree/main/Previews)
