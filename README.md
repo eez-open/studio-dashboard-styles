@@ -31,3 +31,9 @@ A collection of styles that can be used to create attractive [EEZ Studio](https:
 ![preview](docs/images/thumbnails.jpg)
 
 High resolution [previews](https://github.com/eez-open/studio-dashboard-styles/tree/main/Previews)
+
+---
+
+This work is financed by [NLnet](https://nlnet.nl/) foundation
+
+![nlnet](docs/images/nlnet-logo.png)
