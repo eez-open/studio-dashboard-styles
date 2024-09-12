@@ -24,7 +24,9 @@ A collection of styles that can be used to create attractive [EEZ Studio](https:
 20. [The nature retrotype](https://github.com/eez-open/studio-dashboard-styles/tree/main/20)
 21. [The wooden retrotype](https://github.com/eez-open/studio-dashboard-styles/tree/main/21)
 22. [The ice age](https://github.com/eez-open/studio-dashboard-styles/tree/main/22)
-23. [Futura]
+23. [Futura](https://github.com/eez-open/studio-dashboard-styles/tree/main/23)
+24. [Futura spice](https://github.com/eez-open/studio-dashboard-styles/tree/main/24)
+25. [Futura natura](https://github.com/eez-open/studio-dashboard-styles/tree/main/25)
 
 ![preview](docs/images/thumbnails.jpg)
 
