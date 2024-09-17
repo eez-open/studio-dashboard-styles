@@ -7,7 +7,7 @@ A collection of styles that can be used to create attractive [EEZ Studio](https:
 3. [The Pinky Pigeon](https://github.com/eez-open/studio-dashboard-styles/tree/main/3)
 4. [The Galaxy theme](https://github.com/eez-open/studio-dashboard-styles/tree/main/4)
 5. [The Homeland theme](https://github.com/eez-open/studio-dashboard-styles/tree/main/5)
-6. Picassa
+6. [Picassa](https://github.com/eez-open/studio-dashboard-styles/tree/main/6)
 7. [The sweet turquoise](https://github.com/eez-open/studio-dashboard-styles/tree/main/7)
 8. [The fresh orange](https://github.com/eez-open/studio-dashboard-styles/tree/main/8)
 9. [Digital red](https://github.com/eez-open/studio-dashboard-styles/tree/main/9)
@@ -19,7 +19,7 @@ A collection of styles that can be used to create attractive [EEZ Studio](https:
 15. [The call of the deep sea](https://github.com/eez-open/studio-dashboard-styles/tree/main/15)
 16. [Blue harmony](https://github.com/eez-open/studio-dashboard-styles/tree/main/16)
 17. [The red blue shapes](https://github.com/eez-open/studio-dashboard-styles/tree/main/17)
-18. The black white shapes
+18. [The black white shapes](https://github.com/eez-open/studio-dashboard-styles/tree/main/18)
 19. [The retrotype](https://github.com/eez-open/studio-dashboard-styles/tree/main/19)
 20. [The nature retrotype](https://github.com/eez-open/studio-dashboard-styles/tree/main/20)
 21. [The wooden retrotype](https://github.com/eez-open/studio-dashboard-styles/tree/main/21)
